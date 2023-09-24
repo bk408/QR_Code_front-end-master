@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./qr-code.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/bk408/QR_Code_front-end-master)
+- Live Site URL: [Add live site URL here](https://qr-code-frontendmaster.netlify.app/)
 
 ## My process
 
